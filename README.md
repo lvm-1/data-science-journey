@@ -1,4 +1,7 @@
-# 🚀 Minha Jornada em Data Science
+PASSO 3: CRIANDO SEU README PRINCIPAL (10 min)
+Clique no arquivo README.md e depois no ícone de lápis (Edit this file)
+Apague tudo e cole isto:
+markdown# 🚀 Minha Jornada em Data Science
 
 > **Estudante de Engenharia da Computação** documentando meu aprendizado em Data Science
 
@@ -106,7 +109,31 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/leovm1)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lvm-1)
 
-
 ---
 
 ## 📝 **Estrutura do Repositório**
+📁 data-science-journey/
+├── 📄 README.md (este arquivo)
+├── 📁 01-courses/ (anotações e exercícios de cursos)
+├── 📁 02-projects/ (projetos completos)
+├── 📁 03-competitions/ (competições Kaggle)
+├── 📁 04-study-notes/ (resumos e cheat sheets)
+├── 📁 05-certificates/ (certificados conquistados)
+└── 📁 06-resources/ (datasets, links úteis)
+
+---
+
+## 🎯 **Como Acompanhar Minha Jornada**
+
+1. **⭐ Star neste repo** para acompanhar atualizações
+2. **👀 Watch** para receber notificações de novos projetos
+3. **🤝 Connect no LinkedIn** para networking
+4. **📊 Acompanhe no Kaggle** minhas competições
+
+---
+
+> **"Data Science is not about the tools, it's about the mindset of asking the right questions and finding insights in data."**
+
+---
+
+**🚀 Última atualização:** Janeiro 2025 | **📍 Status:** Iniciando a jornada!
