@@ -106,6 +106,16 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/leovm1)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lvm-1)
 
+
 ---
 
 ## 📝 **Estrutura do Repositório**
+
+📁 data-science-journey/
+├── 📄 README.md (este arquivo)
+├── 📁 01-courses/ (anotações e exercícios de cursos)
+├── 📁 02-projects/ (projetos completos)
+├── 📁 03-competitions/ (competições Kaggle)
+├── 📁 04-study-notes/ (resumos e cheat sheets)
+├── 📁 05-certificates/ (certificados conquistados)
+└── 📁 06-resources/ (datasets, links úteis)
