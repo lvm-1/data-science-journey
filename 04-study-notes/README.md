@@ -1,4 +1,4 @@
-## 📚 Study Notes and Cheat Sheets
+# 📚 Study Notes and Cheat Sheets
 Here are organized all my study materials and quick reference guides, including:
 
  - Course summaries and key insights
