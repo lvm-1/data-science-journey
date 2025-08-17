@@ -110,12 +110,3 @@
 ---
 
 ## 📝 **Estrutura do Repositório**
-
-📁 data-science-journey/
-├── 📄 README.md (este arquivo)
-├── 📁 01-courses/ (anotações e exercícios de cursos)
-├── 📁 02-projects/ (projetos completos)
-├── 📁 03-competitions/ (competições Kaggle)
-├── 📁 04-study-notes/ (resumos e cheat sheets)
-├── 📁 05-certificates/ (certificados conquistados)
-└── 📁 06-resources/ (datasets, links úteis)
